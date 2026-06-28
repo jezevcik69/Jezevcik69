@@ -1,16 +1,28 @@
-## Hi there 👋
+╭──────── ⋆⋅☆⋅⋆ ────────╮
 
-<!--
-**jezevcik69/Jezevcik69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 **About Me**
+  - Hi! I'm Adam Váňa, also known as Sweazyyy or Zernox.
+  - I'm a beginner developer trying to learn new things.
+  - I enjoy creating both anticheats and cheats. 😉
 
-Here are some ideas to get you started:
+├──────── ⋆⋅☆⋅⋆ ────────┤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Programming Languages**
+  - **HTML:** █████████ 15%
+  - **Python:** ███████ 5%
+  - **Java:** ██████ 5%
+
+├──────── ⋆⋅☆⋅⋆ ────────┤
+
+🛠 **Projects**
+  - **Portfolio:** [Zernox](https://jezevcik20.eu/).
+
+├──────── ⋆⋅☆⋅⋆ ────────┤
+
+✉️ **Contact**
+  - Email: jezevcik20@email.cz
+  - Discord: [jezevcik20](https://discord.com/channels/@me/966379789206294609)
+  - FakeCrime: [https://fakecrime.bio/jezevcik20](https://fakecrime.bio/jezevcik20)
+  - Feel free to reach out for collabs!
+
+╰──────── ⋆⋅☆⋅⋆ ────────╯
